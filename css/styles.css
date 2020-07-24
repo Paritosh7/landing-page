@@ -18,6 +18,7 @@ body {
     color: #fff;
 }
 
+/* For Smooth Scrolling */
 html{
     scroll-behavior: smooth;
 }
@@ -132,6 +133,7 @@ section {
     color: #fff;
 }
 
+/* Floating Btn Style*/
 #top{
     visibility: hidden;
     position: fixed;

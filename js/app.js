@@ -126,7 +126,7 @@ function changeFloatingBtnVisibility(){
   (scrollHeight > 500) ? topBtn.style.visibility = "visible" : topBtn.style.visibility = "hidden";
 }
 
-/** listening for a click floating button, 
+/** listening for a click on floating button, 
  *  scroll to top of the page */
 topBtn.addEventListener('click',()=>{window.scrollTo(0,0)})
 
